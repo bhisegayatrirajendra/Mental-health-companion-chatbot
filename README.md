@@ -43,13 +43,13 @@ An AI-powered mental health companion that combines mood detection through text 
 
 1. **Start Backend Server** (for AI features):
    ```bash
-   cd c:/Users/bhise/OneDrive/Desktop/AI
+   cd c:/Users/gayatri/OneDrive/Desktop/AI
    python server.py
    ```
 
 2. **Start Frontend Server**:
    ```bash
-   cd c:/Users/bhise/OneDrive/Desktop/AI
+   cd c:/Users/gayatri/OneDrive/Desktop/AI
    python -m http.server 8080
    ```
 
@@ -133,7 +133,7 @@ pip install python-dotenv>=1.0.0
 ## 🎨 Project Structure
 
 ```
-c:/Users/bhise/OneDrive/Desktop/AI/
+c:/Users/gayatri/OneDrive/Desktop/AI/
 ├── index.html              # Main web interface
 ├── style.css               # Styling and animations
 ├── app.js                  # JavaScript functionality
